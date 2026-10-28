@@ -45,7 +45,7 @@ This profile is intended to grow around hands-on labs, small security tools, tec
 | ⚙️ **Scripting & automation** | Bash/Zsh and PowerShell for repeatable checks, recon workflows, enumeration, and security-focused tooling. |
 | 🧠 **AI-assisted security workflows** | Applying AI to research, OSINT, analysis, and automation while reviewing outputs and validating findings manually. |
 
-## Certifications
+## ⚔️ Certifications
 
 | Certification | Issuer | Earned | Credential |
 |---|---|---:|---|
