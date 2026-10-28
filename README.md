@@ -26,6 +26,8 @@
 </p>
 
 
+---
+
 ## 👾 About
 
 I'm building a practical portfolio in **offensive cybersecurity**, with a focus on understanding how exposed information, services, vulnerabilities, and misconfigurations can combine into realistic attack paths.
@@ -33,6 +35,8 @@ I'm building a practical portfolio in **offensive cybersecurity**, with a focus 
 I’m especially interested in the full offensive workflow: from **OSINT and reconnaissance** to service enumeration, vulnerability validation, privilege escalation, and the documentation of findings. I also enjoy scripting and exploring how **AI-assisted workflows** can support research, analysis, and repetitive security tasks—without replacing technical validation.
 
 This profile is intended to grow around hands-on labs, small security tools, technical notes, and reproducible workflows.
+
+---
 
 ## 🎯 Areas of focus
 
@@ -45,17 +49,10 @@ This profile is intended to grow around hands-on labs, small security tools, tec
 | ⚙️ **Scripting & automation** | Bash/Zsh and PowerShell for repeatable checks, recon workflows, enumeration, and security-focused tooling. |
 | 🧠 **AI-assisted security workflows** | Applying AI to research, OSINT, analysis, and automation while reviewing outputs and validating findings manually. |
 
-## ⚔️ Certifications
-
-| Certification | Issuer | Earned | Credential |
-|---|---|---:|---|
-| **OSCP+** | OffSec | September 2026 | [Verify credential](https://credentials.offsec.com/9e4cca4c-3426-4da3-99b5-674600ec3a56#acc.awNcmBHX) |
-| **CRTO** | Zero-Point Security | September 2026 | [Verify credential](https://certs.zeropointsecurity.co.uk/26613082-585a-46cd-b821-4a7aa3254a70#acc.8wj1Xzn2) |
-| **CARTP** | Altered Security | July 2026 | [Verify credential](https://www.credential.net/793a3d9c-a80b-47f7-9496-9720bdc8f8a1#acc.RNFywY8k) |
-| **CRTP** | Altered Security | February 2026 | [Verify credential](https://www.credential.net/994958d6-fe86-4b5c-a3c1-2332db6ece4a#acc.ZI0vPSMj) |
-| **PT1 — Junior Penetration Tester** | TryHackMe | December 2025 | [View certificate](https://assets.tryhackme.com/certification-certificate/693d0083610a20b6792b9f60.pdf) |
+---
 
 ## 🧰 Tools & technologies
+
 
 #### Offensive Security
 <p>
@@ -71,6 +68,7 @@ This profile is intended to grow around hands-on labs, small security tools, tec
   <img src="https://img.shields.io/badge/OSINT-Recon-6D4AFF?style=flat-square" alt="OSINT" />
 </p>
 
+
 #### Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -82,6 +80,7 @@ This profile is intended to grow around hands-on labs, small security tools, tec
   <img src="https://img.shields.io/badge/Zsh-1A2C34?style=flat-square&logo=zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
+
 
 #### Infrastructure & Cloud
 <p>
@@ -95,6 +94,23 @@ This profile is intended to grow around hands-on labs, small security tools, tec
 
 *The toolkit will evolve as I publish more hands-on work. I aim to document how and why a technique works, not just list tools.*
 
+
+---
+
+
+
+## ⚔️ Certifications
+
+| Certification | Issuer | Earned | Credential |
+|---|---|---:|---|
+| **OSCP+** | OffSec | September 2026 | [Verify credential](https://credentials.offsec.com/9e4cca4c-3426-4da3-99b5-674600ec3a56#acc.awNcmBHX) |
+| **CRTO** | Zero-Point Security | September 2026 | [Verify credential](https://certs.zeropointsecurity.co.uk/26613082-585a-46cd-b821-4a7aa3254a70#acc.8wj1Xzn2) |
+| **CARTP** | Altered Security | July 2026 | [Verify credential](https://www.credential.net/793a3d9c-a80b-47f7-9496-9720bdc8f8a1#acc.RNFywY8k) |
+| **CRTP** | Altered Security | February 2026 | [Verify credential](https://www.credential.net/994958d6-fe86-4b5c-a3c1-2332db6ece4a#acc.ZI0vPSMj) |
+| **PT1 — Junior Penetration Tester** | TryHackMe | December 2025 | [View certificate](https://assets.tryhackme.com/certification-certificate/693d0083610a20b6792b9f60.pdf) |
+
+---
+
 ## 🗂️ Portfolio roadmap
 
 I’m building this portfolio around practical, well-documented work. The goal is to publish repositories such as:
@@ -106,6 +122,8 @@ I’m building this portfolio around practical, well-documented work. The goal i
 
 > Projects will be linked here as their repositories become available. I prefer publishing work that is understandable, reproducible, and useful over presenting unfinished ideas as completed tools.
 
+---
+
 ## 🧭 My workflow
 
 `Scope → Recon → Enumeration → Validate → Document → Improve`
@@ -114,6 +132,8 @@ I’m building this portfolio around practical, well-documented work. The goal i
 - **Automation-minded:** reduce repetitive work with scripts and reusable workflows.
 - **Evidence-driven:** distinguish confirmed findings from assumptions and false positives.
 - **Responsible:** offensive testing belongs in authorised assessments, CTFs, and controlled labs.
+
+---
 
 ## 🤝 Connect
 
