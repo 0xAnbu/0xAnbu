@@ -3,9 +3,9 @@
 <h3 align="center">Offensive Cybersecurity · Penetration Testing · Red Team</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive%20Security-B91C1C?style=flat-square" alt="Offensive Security" />
-  <img src="https://img.shields.io/badge/Pentesting-B91C1C?style=flat-square" alt="Pentesting" />
-  <img src="https://img.shields.io/badge/Red%20Team-B91C1C?style=flat-square" alt="Red Team" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-7C3AED?style=flat-square&labelColor=111827" alt="Offensive Security" />
+  <img src="https://img.shields.io/badge/Pentesting-EA580C?style=flat-square&labelColor=111827" alt="Pentesting" />
+  <img src="https://img.shields.io/badge/Red%20Team-DC2626?style=flat-square&labelColor=111827" alt="Red Team" />
 </p>
 
 <p align="center">
