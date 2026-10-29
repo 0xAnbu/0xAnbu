@@ -7,24 +7,12 @@
   <img src="https://img.shields.io/badge/Pentesting-EA580C?style=flat-square&labelColor=111827" alt="Pentesting" />
   <img src="https://img.shields.io/badge/Red%20Team-DC2626?style=flat-square&labelColor=111827" alt="Red Team" />
 </p>
-
 <p align="center">
-  <!--<a href="">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/portfolio-dark.svg"><img src="assets/links/portfolio-light.svg" height="40" alt="Portfolio"></picture>
-  </a>-->
-  <a href="https://www.linkedin.com/in/javierpalaciosbotejara/">
-   <img src="assets/links/linkedin-light.svg" height="40" alt="LinkedIn">
-  </a>
-  /
-  <a href="https://profile.hackthebox.com/profile/019cc329-1eb5-7180-bcd0-cc0d1cfccebb">
-   <img src="assets/links/htb-light.svg" height="40" alt="Hack The Box">
-  </a> 
-  /
-  <a href="https://tryhackme.com/p/0xAnbu">
-   <img src="assets/links/thm-light.svg" height="40" alt="TryHackMe">
-  </a>
+<!-- <a href=""><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/portfolio-dark.svg"><img src="assets/links/portfolio-light.svg" height="40" alt="Portfolio"></picture></a>-->
+  <a href="https://www.linkedin.com/in/javierpalaciosbotejara/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" height="40" alt="LinkedIn"></picture></a>
+  <a href="https://profile.hackthebox.com/profile/019cc329-1eb5-7180-bcd0-cc0d1cfccebb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/htb-dark.svg"><img src="assets/links/htb-light.svg" height="40" alt="Hack The Box"></picture></a>
+  <a href="assets/links/thm-light.svg"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/thm-dark.svg"><img src="assets/links/thm-light.svg" height="40" alt="TryHackMe"></picture></a>
 </p>
-
 
 ---
 
